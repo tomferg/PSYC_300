@@ -1,0 +1,6 @@
+participant,country,year,Mem_Score
+1,CAN,1993,40
+2,USA,1996,10
+3,BEL,1994,29
+4,CAN,1996,35
+5,UK,1995,30

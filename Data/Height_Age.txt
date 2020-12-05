@@ -1,0 +1,6 @@
+Participant	Age	Height
+1	23	62
+2	25	72
+3	38	88
+4	63	76
+5	45	55
